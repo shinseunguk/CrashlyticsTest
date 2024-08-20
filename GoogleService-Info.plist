@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDy1T3VfzKpHW4TSdpRG-WFhN8ozUp8_zM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>664993050681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.incross.CrashlyticsTest</string>
+	<key>PROJECT_ID</key>
+	<string>crashanalyticstest-38f44</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crashanalyticstest-38f44.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:664993050681:ios:97c3ce228831444ccb1de8</string>
+</dict>
+</plist>
